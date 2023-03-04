@@ -1,0 +1,9 @@
+name: SMP
+version: '${project.version}'
+main: me.mohsumzadah.smp.SMP
+api-version: 1.19
+commands:
+  withdraw:
+    description: "You can withdraw your aura point with this command."
+  aura:
+    description: "You can check how many aura do you have."

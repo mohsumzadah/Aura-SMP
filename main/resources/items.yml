@@ -1,0 +1,39 @@
+SpeedAuraItem:
+  name: "&fSPEED AURA"
+  type: "DIAMOND_BLOCK"
+  lores:
+    - "test 1"
+    - "test 2"
+    - "test 3"
+
+StrengthAuraItem:
+  name: "&fSTRENGTH AURA"
+  type: "DIAMOND_SWORD"
+  lores:
+    - "test 1"
+    - "test 2"
+    - "test 3"
+
+BlazeAuraItem:
+  name: "&6Blaze Aura"
+  type: "BLAZE_ROD"
+  lores:
+    - "&eHold on off-hand to get Fire Resistance"
+    - "&eWhen hit a player, it will catch fire"
+    - "&eCooldown: 3 minutes"
+
+HealthAuraItem:
+  name: "&fHEALTH AURA"
+  type: "STICK"
+  lores:
+    - "test 1"
+    - "test 2"
+    - "test 3"
+
+UnbanItem:
+  name: "&fUNBAN ITEM"
+  type: "DIAMOND"
+  lores:
+    - "test 1"
+    - "test 2"
+    - "test 3"
